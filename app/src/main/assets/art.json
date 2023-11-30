@@ -1,0 +1,664 @@
+{
+  "items": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["pagode", "pagode novo", "sertanejo universitario"],
+      "href": "https://api.spotify.com/v1/artists/5ZfBThYiIIhL7jHMG8gDB2",
+      "id": "5ZfBThYiIIhL7jHMG8gDB2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb444f2602bb6e0aa1c62eb553",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174444f2602bb6e0aa1c62eb553",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178444f2602bb6e0aa1c62eb553",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Ferrugem",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:5ZfBThYiIIhL7jHMG8gDB2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["arrocha", "sertanejo", "sertanejo universitario"],
+      "href": "https://api.spotify.com/v1/artists/1yR65psqiazQpeM79CcGh8",
+      "id": "1yR65psqiazQpeM79CcGh8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebffaebdbc972967729f688e25",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174ffaebdbc972967729f688e25",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178ffaebdbc972967729f688e25",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Marília Mendonça",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:1yR65psqiazQpeM79CcGh8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/070CnHC2iZh5oLpyWYPf8h"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["musica infantil"],
+      "href": "https://api.spotify.com/v1/artists/070CnHC2iZh5oLpyWYPf8h",
+      "id": "070CnHC2iZh5oLpyWYPf8h",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb624a49a01efc05b7f9a99b42",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174624a49a01efc05b7f9a99b42",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178624a49a01efc05b7f9a99b42",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Galinha Pintadinha",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify:artist:070CnHC2iZh5oLpyWYPf8h"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["pagode", "pagode novo"],
+      "href": "https://api.spotify.com/v1/artists/6vTqEFbTtTRJsuIpzZgjxi",
+      "id": "6vTqEFbTtTRJsuIpzZgjxi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb88ea5f3e703b821f4f19fc81",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517488ea5f3e703b821f4f19fc81",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17888ea5f3e703b821f4f19fc81",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Grupo Menos É Mais",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:6vTqEFbTtTRJsuIpzZgjxi"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["pagode", "pagode novo"],
+      "href": "https://api.spotify.com/v1/artists/6gEzJZrbm0F4ihvE9iXR9z",
+      "id": "6gEzJZrbm0F4ihvE9iXR9z",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb57adfef1deb64efe407c2a04",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517457adfef1deb64efe407c2a04",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17857adfef1deb64efe407c2a04",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Péricles",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:6gEzJZrbm0F4ihvE9iXR9z"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["axe", "pagode"],
+      "href": "https://api.spotify.com/v1/artists/6YMWV5AeYoZymMMDonMfsA",
+      "id": "6YMWV5AeYoZymMMDonMfsA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebcb3856bd85fa475b36186e1e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174cb3856bd85fa475b36186e1e",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178cb3856bd85fa475b36186e1e",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Art Popular",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:6YMWV5AeYoZymMMDonMfsA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["dance pop", "pop"],
+      "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+      "id": "0du5cEVh5yTK9QJze8zA0C",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174c36dd9eb55fb0db4911f25dd",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178c36dd9eb55fb0db4911f25dd",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Bruno Mars",
+      "popularity": 86,
+      "type": "artist",
+      "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["dance pop", "girl group", "pop", "r&b", "urban contemporary"],
+      "href": "https://api.spotify.com/v1/artists/1Y8cdNmUJH7yBTd9yOvr5i",
+      "id": "1Y8cdNmUJH7yBTd9yOvr5i",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174f75e64532704bd6acf0b4e76",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178f75e64532704bd6acf0b4e76",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Destiny's Child",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:1Y8cdNmUJH7yBTd9yOvr5i"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fT2rW1NHyMk59N2RftDCc"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["pagode", "pagode novo"],
+      "href": "https://api.spotify.com/v1/artists/5fT2rW1NHyMk59N2RftDCc",
+      "id": "5fT2rW1NHyMk59N2RftDCc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eba70d55ccb2481df1f9500516",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174a70d55ccb2481df1f9500516",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178a70d55ccb2481df1f9500516",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Nuwance",
+      "popularity": 27,
+      "type": "artist",
+      "uri": "spotify:artist:5fT2rW1NHyMk59N2RftDCc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YBaTAcy9PQpIbuRQTbD8F"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["axe", "pagode", "pagode novo", "samba paulista"],
+      "href": "https://api.spotify.com/v1/artists/3YBaTAcy9PQpIbuRQTbD8F",
+      "id": "3YBaTAcy9PQpIbuRQTbD8F",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd6772d8bfab0d06eb38b8bd4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174d6772d8bfab0d06eb38b8bd4",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178d6772d8bfab0d06eb38b8bd4",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Negritude Junior",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:3YBaTAcy9PQpIbuRQTbD8F"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["boy band", "dance pop", "pop"],
+      "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+      "id": "5rSXSAkZ67PYJSvpUpkOr7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb0d44bc6f830e443d7501a8c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174b0d44bc6f830e443d7501a8c",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178b0d44bc6f830e443d7501a8c",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Backstreet Boys",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["pagode novo"],
+      "href": "https://api.spotify.com/v1/artists/66aYJzbeqXd9LyYc1qppzy",
+      "id": "66aYJzbeqXd9LyYc1qppzy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0073352f0bc762f4e562281e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab676161000051740073352f0bc762f4e562281e",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f1780073352f0bc762f4e562281e",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Grupo Benzadeus",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:66aYJzbeqXd9LyYc1qppzy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["agronejo", "arrocha", "pop nacional", "sertanejo", "sertanejo universitario"],
+      "href": "https://api.spotify.com/v1/artists/2Z0lRIqr997lIUiPtrpKCr",
+      "id": "2Z0lRIqr997lIUiPtrpKCr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc55d162af83a11f10a9691d9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174c55d162af83a11f10a9691d9",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178c55d162af83a11f10a9691d9",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Matheus & Kauan",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:2Z0lRIqr997lIUiPtrpKCr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4fjeW1nqzinsonZKlXm9db"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["pagode novo"],
+      "href": "https://api.spotify.com/v1/artists/4fjeW1nqzinsonZKlXm9db",
+      "id": "4fjeW1nqzinsonZKlXm9db",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb51d138daecd3c5b22d76b4cd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517451d138daecd3c5b22d76b4cd",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17851d138daecd3c5b22d76b4cd",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Pra Valer",
+      "popularity": 29,
+      "type": "artist",
+      "uri": "spotify:artist:4fjeW1nqzinsonZKlXm9db"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["funk carioca", "funk pop", "funk rj", "pagode baiano", "pop nacional"],
+      "href": "https://api.spotify.com/v1/artists/3CDoRporvSjdzTrm99a3gi",
+      "id": "3CDoRporvSjdzTrm99a3gi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1badcf5f7e5cb47e8de21092",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab676161000051741badcf5f7e5cb47e8de21092",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f1781badcf5f7e5cb47e8de21092",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "LUDMILLA",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:3CDoRporvSjdzTrm99a3gi"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["pop teen brasileiro"],
+      "href": "https://api.spotify.com/v1/artists/05mFGgWzooDQMWGNcNsM05",
+      "id": "05mFGgWzooDQMWGNcNsM05",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc33390a542c2de94703d0899",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174c33390a542c2de94703d0899",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178c33390a542c2de94703d0899",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Sandy e Junior",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:05mFGgWzooDQMWGNcNsM05"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["agronejo", "arrocha", "sertanejo", "sertanejo universitario"],
+      "href": "https://api.spotify.com/v1/artists/1elUiq4X7pxej6FRlrEzjM",
+      "id": "1elUiq4X7pxej6FRlrEzjM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4519582131dc53d9f2c86803",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab676161000051744519582131dc53d9f2c86803",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f1784519582131dc53d9f2c86803",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Jorge & Mateus",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:1elUiq4X7pxej6FRlrEzjM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["pagode", "pagode novo"],
+      "href": "https://api.spotify.com/v1/artists/09djLPsTydbIFC9duW5mQp",
+      "id": "09djLPsTydbIFC9duW5mQp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc1e5f285034111666387b36c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174c1e5f285034111666387b36c",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178c1e5f285034111666387b36c",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Vitinho",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify:artist:09djLPsTydbIFC9duW5mQp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["pagode", "pagode novo"],
+      "href": "https://api.spotify.com/v1/artists/1DEukDFi4pMT4Y0bfGxJTB",
+      "id": "1DEukDFi4pMT4Y0bfGxJTB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb94633b548a2d3c98a102753",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174b94633b548a2d3c98a102753",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178b94633b548a2d3c98a102753",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Imaginasamba",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:1DEukDFi4pMT4Y0bfGxJTB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": ["axe", "pagode", "pagode novo", "samba paulista", "sertanejo universitario"],
+      "href": "https://api.spotify.com/v1/artists/6VPRGmbZ0dupZrbwwEDRRw",
+      "id": "6VPRGmbZ0dupZrbwwEDRRw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27376cb9dbfee72b93bc8d8938b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0276cb9dbfee72b93bc8d8938b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485176cb9dbfee72b93bc8d8938b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Exaltasamba",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:6VPRGmbZ0dupZrbwwEDRRw"
+    }
+  ]
+}
